@@ -5,6 +5,10 @@
       "bundler": "metro"
     },
     "name": "react-native-jobs",
-    "slug": "react-native-jobs"
+    "slug": "react-native-jobs",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    }
   }
 }
